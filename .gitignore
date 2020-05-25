@@ -1,0 +1,4 @@
+catboost_info/
+cat_feature_index*
+*.csv
+.ipynb_checkpoints/
